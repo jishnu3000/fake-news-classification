@@ -1,1 +1,1 @@
-# fake-news-classification
+# Coursera Fake News Detection with Machine Learning Project
